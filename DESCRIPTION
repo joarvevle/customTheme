@@ -20,3 +20,5 @@ Imports:
     jsonlite,
     sysfonts,
     showtext
+URL: https://github.com/joarvevle/customTheme
+BugReports: https://github.com/joarvevle/customTheme/issues
