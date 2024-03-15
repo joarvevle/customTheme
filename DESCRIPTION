@@ -1,0 +1,22 @@
+Package: customTheme
+Type: Package
+Title: Controll font and colour of plots 
+Version: 0.1.0
+Author: yourName
+Maintainer: The package maintainer <your@e.mail>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT License + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Collate:
+  custom_colour.R
+  custom_theme.R
+  mainFunction.R
+  zzz.R
+Imports: 
+    curl,
+    ggplot2,
+    jsonlite,
+    sysfonts,
+    showtext
